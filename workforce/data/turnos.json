@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mañana Completa",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "15:00:00",
+    "tipo": "mañana",
+    "jornada": "completa"
+  },
+  {
+    "id": 2,
+    "nombre": "Mañana 36h",
+    "hora_inicio": "09:00:00",
+    "hora_fin": "15:00:00",
+    "tipo": "mañana",
+    "jornada": "36h"
+  },
+  {
+    "id": 3,
+    "nombre": "Mañana 30h",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "15:00:00",
+    "tipo": "mañana",
+    "jornada": "30h"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarde Completa",
+    "hora_inicio": "15:00:00",
+    "hora_fin": "22:00:00",
+    "tipo": "tarde",
+    "jornada": "completa"
+  },
+  {
+    "id": 5,
+    "nombre": "Tarde 36h",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "22:00:00",
+    "tipo": "tarde",
+    "jornada": "36h"
+  },
+  {
+    "id": 6,
+    "nombre": "Tarde 30h",
+    "hora_inicio": "17:00:00",
+    "hora_fin": "22:00:00",
+    "tipo": "tarde",
+    "jornada": "30h"
+  }
+]

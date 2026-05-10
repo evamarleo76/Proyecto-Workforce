@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "dni": "11111110A",
+    "nombre": "María",
+    "apellidos": "González López",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 2,
+    "dni": "11111112B",
+    "nombre": "Lucía",
+    "apellidos": "Fernández Díaz",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 3,
+    "dni": "11111113C",
+    "nombre": "Ana",
+    "apellidos": "Martínez Pérez",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 4,
+    "dni": "11111114D",
+    "nombre": "Elena",
+    "apellidos": "Sánchez Rubio",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 5,
+    "dni": "11111115E",
+    "nombre": "Laura",
+    "apellidos": "Prieto Gómez",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 6,
+    "dni": "11111116F",
+    "nombre": "Carmen",
+    "apellidos": "Álvarez Torres",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 7,
+    "dni": "22222221A",
+    "nombre": "Jorge",
+    "apellidos": "López García",
+    "puesto": "Cajero",
+    "estado": "Activo",
+    "jornada": "36h"
+  },
+  {
+    "id": 8,
+    "dni": "22222220B",
+    "nombre": "Pablo",
+    "apellidos": "García Suárez",
+    "puesto": "Cajero",
+    "estado": "Activo",
+    "jornada": "36h"
+  },
+  {
+    "id": 9,
+    "dni": "22222223C",
+    "nombre": "Diego",
+    "apellidos": "Rodríguez León",
+    "puesto": "Cajero",
+    "estado": "Activo",
+    "jornada": "36h"
+  },
+  {
+    "id": 10,
+    "dni": "22222224D",
+    "nombre": "Iván",
+    "apellidos": "Hernández Soto",
+    "puesto": "Cajero",
+    "estado": "Activo",
+    "jornada": "36h"
+  },
+  {
+    "id": 11,
+    "dni": "22222225E",
+    "nombre": "Mario",
+    "apellidos": "Cano Iglesias",
+    "puesto": "Cajero",
+    "estado": "Activo",
+    "jornada": "36h"
+  },
+  {
+    "id": 12,
+    "dni": "22222226F",
+    "nombre": "Rubén",
+    "apellidos": "Vega Castro",
+    "puesto": "Cajero",
+    "estado": "Activo",
+    "jornada": "36h"
+  },
+  {
+    "id": 13,
+    "dni": "33333331A",
+    "nombre": "Sara",
+    "apellidos": "Núñez Blanco",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "30h"
+  },
+  {
+    "id": 14,
+    "dni": "33333332B",
+    "nombre": "Nerea",
+    "apellidos": "Campos Ruiz",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "30h"
+  },
+  {
+    "id": 15,
+    "dni": "33333330C",
+    "nombre": "Paula",
+    "apellidos": "Rey Domínguez",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "30h"
+  },
+  {
+    "id": 16,
+    "dni": "33333334D",
+    "nombre": "Irene",
+    "apellidos": "Santos Varela",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "30h"
+  },
+  {
+    "id": 17,
+    "dni": "33333335E",
+    "nombre": "Alba",
+    "apellidos": "Calvo Montes",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "30h"
+  },
+  {
+    "id": 18,
+    "dni": "33333336F",
+    "nombre": "Clara",
+    "apellidos": "Moro Álvarez",
+    "puesto": "Cajera",
+    "estado": "Activo",
+    "jornada": "30h"
+  },
+  {
+    "id": 19,
+    "dni": "11111111A",
+    "nombre": "Laura",
+    "apellidos": "Fernández",
+    "puesto": "Admin",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 20,
+    "dni": "44444444C",
+    "nombre": "Carlos",
+    "apellidos": "Méndez",
+    "puesto": "RRHH",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 21,
+    "dni": "55555555A",
+    "nombre": "Sofía",
+    "apellidos": "Delgado",
+    "puesto": "Supervisor",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 22,
+    "dni": "55555555C",
+    "nombre": "Javier",
+    "apellidos": "Morales",
+    "puesto": "Supervisor",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 23,
+    "dni": "55555555E",
+    "nombre": "Elena",
+    "apellidos": "Prieto",
+    "puesto": "Supervisor",
+    "estado": "Activo",
+    "jornada": "completa"
+  },
+  {
+    "id": 24,
+    "dni": "66666666F",
+    "nombre": "Miguel",
+    "apellidos": "Torres",
+    "puesto": "Responsable",
+    "estado": "Activo",
+    "jornada": "completa"
+  }
+]

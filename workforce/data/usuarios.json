@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "dni": "11111111A",
+    "clave": "11111111A",
+    "nombre": "Laura Fernández",
+    "roles": "Admin"
+  },
+  {
+    "id": 2,
+    "dni": "22222222B",
+    "clave": "22222222B",
+    "nombre": "Carlos Méndez",
+    "roles": "RRHH"
+  },
+  {
+    "id": 3,
+    "dni": "33333333C",
+    "clave": "33333333C",
+    "nombre": "Sofía Delgado",
+    "roles": "Supervisor"
+  },
+  {
+    "id": 4,
+    "dni": "44444444D",
+    "clave": "44444444D",
+    "nombre": "Javier Morales",
+    "roles": "Responsable"
+  },
+  {
+    "id": 5,
+    "dni": "55555555E",
+    "clave": "55555555E",
+    "nombre": "Elena Prieto",
+    "roles": "Supervisor"
+  },
+  {
+    "id": 6,
+    "dni": "66666666F",
+    "clave": "66666666F",
+    "nombre": "Miguel Torres",
+    "roles": "Responsable"
+  }
+]

@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.body-login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.logo {
+  max-width: 90vw;
+  max-height: 50vw;
+  height: auto;
+  display: block;
+  margin-bottom: 0;
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+.logo-grande {
+    margin-top: 45px;
+    width: 480px;
+    height: auto;
+    pointer-events: none;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.formulario-login {
+  background-color: #ffffff;
+  padding: 2rem 3rem;
+  border-radius: 15px;
+  max-width: 500px;
+  display: block;
+  box-sizing: border-box;
+}
+
+.btn-entrada {
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  width: 100%;
+  border: none;
+  background-color: #71c844;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.btn-entrada:hover {
+  background-color: #578040;
+}
+
+h2 {
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+table thead.table-light th {
+  background-color: #81c784;
+  color: white;
+}
+
+
+
+
+
+
